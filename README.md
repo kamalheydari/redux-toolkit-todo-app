@@ -2,7 +2,7 @@
 
 ## Demo
 See demo on github pages
-[React slider](https://kamalheydari.github.io/redux-toolkit-todo-app/)
+[Redux Toolkit Todo App](https://kamalheydari.github.io/redux-toolkit-todo-app/)
 
 ![demo](demo.PNG)
 
