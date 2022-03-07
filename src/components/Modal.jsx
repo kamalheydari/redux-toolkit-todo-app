@@ -92,7 +92,7 @@ const Modal = ({ isModalOpen, setIsModalOpen, type, todo }) => {
             </div>
             <div className='btns'>
               <Button type='submit' variant='primary'>
-                {type === "update" ? "Update" : "Add"}task
+                {type === "update" ? "Update" : "Add"} task
               </Button>
               <Button
                 type='button'
